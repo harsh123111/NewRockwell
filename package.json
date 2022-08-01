@@ -1,0 +1,23 @@
+{
+  "name": "newrockwell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh123111/NewRockwell.git"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh123111/NewRockwell/issues"
+  },
+  "homepage": "https://github.com/harsh123111/NewRockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
